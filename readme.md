@@ -1,6 +1,6 @@
-# BedBathandBeyond Account Manager
+# BedBathandBeyond Account Tool
 
-Bedbathandbeyond account manager that was used to generate over $200k+ in $5 gift cards while the promotion was live. This project includes an account generator, gift card redeemer, and code stacker.
+Bedbathandbeyond account tool that was used to generate over $200k+ in $5 gift cards while the promotion was live. This was done by simply creating an account and waiting for them to email you a gift card, NOT fraud. This project includes an account generator, gift card redeemer, and code stacker.
 
 
 ## Important Note
